@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2+v2w/wcG2s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\student\\RiderProjects\\SP_12.04_ex4\\SP_12.04_ex4\\SP_12.04_ex4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student\\.nuget\\packages\\system.codedom\\10.0.0-preview.5.25277.114\\system.codedom.10.0.0-preview.5.25277.114.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\system.management\\10.0.0-preview.5.25277.114\\system.management.10.0.0-preview.5.25277.114.nupkg.sha512"
+  ],
+  "logs": []
+}
