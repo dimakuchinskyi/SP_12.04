@@ -1,0 +1,14 @@
+C:\Users\student\RiderProjects\SP_12.04_ex1\SP_12.04_ex1\bin\Debug\net9.0\SP_12.04_ex1.exe
+C:\Users\student\RiderProjects\SP_12.04_ex1\SP_12.04_ex1\bin\Debug\net9.0\SP_12.04_ex1.deps.json
+C:\Users\student\RiderProjects\SP_12.04_ex1\SP_12.04_ex1\bin\Debug\net9.0\SP_12.04_ex1.runtimeconfig.json
+C:\Users\student\RiderProjects\SP_12.04_ex1\SP_12.04_ex1\bin\Debug\net9.0\SP_12.04_ex1.dll
+C:\Users\student\RiderProjects\SP_12.04_ex1\SP_12.04_ex1\bin\Debug\net9.0\SP_12.04_ex1.pdb
+C:\Users\student\RiderProjects\SP_12.04_ex1\SP_12.04_ex1\obj\Debug\net9.0\SP_12.04_ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\RiderProjects\SP_12.04_ex1\SP_12.04_ex1\obj\Debug\net9.0\SP_12.04_ex1.AssemblyInfoInputs.cache
+C:\Users\student\RiderProjects\SP_12.04_ex1\SP_12.04_ex1\obj\Debug\net9.0\SP_12.04_ex1.AssemblyInfo.cs
+C:\Users\student\RiderProjects\SP_12.04_ex1\SP_12.04_ex1\obj\Debug\net9.0\SP_12.04_ex1.csproj.CoreCompileInputs.cache
+C:\Users\student\RiderProjects\SP_12.04_ex1\SP_12.04_ex1\obj\Debug\net9.0\SP_12.04_ex1.dll
+C:\Users\student\RiderProjects\SP_12.04_ex1\SP_12.04_ex1\obj\Debug\net9.0\refint\SP_12.04_ex1.dll
+C:\Users\student\RiderProjects\SP_12.04_ex1\SP_12.04_ex1\obj\Debug\net9.0\SP_12.04_ex1.pdb
+C:\Users\student\RiderProjects\SP_12.04_ex1\SP_12.04_ex1\obj\Debug\net9.0\SP_12.04_ex1.genruntimeconfig.cache
+C:\Users\student\RiderProjects\SP_12.04_ex1\SP_12.04_ex1\obj\Debug\net9.0\ref\SP_12.04_ex1.dll
